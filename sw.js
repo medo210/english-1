@@ -1,0 +1,1 @@
+importScripts("https://aff.novy.store/sw.js");
